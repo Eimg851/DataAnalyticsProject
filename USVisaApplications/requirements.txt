@@ -50,7 +50,7 @@ pexpect==4.5.0
 pickleshare==0.7.4
 poyo==0.4.1
 prompt-toolkit==1.0.15
-psutil==5.4.3
+psutil==5.6.6
 ptyprocess==0.5.2
 pycodestyle==2.3.1
 pycparser==2.18
